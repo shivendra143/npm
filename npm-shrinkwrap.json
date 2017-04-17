@@ -1,6 +1,6 @@
 {
-  "name": "npm",
-  "version": "4.5.0",
+  "name": "npm5",
+  "version": "5.0.0-beta.4",
   "dependencies": {
     "abbrev": {
       "version": "1.1.0",
